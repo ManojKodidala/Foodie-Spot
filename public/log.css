@@ -1,0 +1,42 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-image: url("./images/food-2879265_960_720.jpg");
+    /* background-repeat: no-repeat; */
+}
+
+#log{
+    border: 2px solid rgb(177, 62, 12);
+    border-radius: 15px;
+    height: 350px;
+    width: 300px;
+    text-align: center;
+    margin: 100px 0 0 500px;
+    
+}
+
+#as p{
+    margin-top: 30px;
+    color: cadetblue;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+}
+
+#per{
+    margin-top: 20px;
+    color: rgb(29, 173, 11);
+}
+
+#rules button{
+    background-color:black;
+    border-radius: 6px;
+    height: 30px;
+    width: 100px;
+    margin-top: 10px;
+    font-size: 15px;
+    color:white;
+}

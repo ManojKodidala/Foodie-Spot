@@ -1,0 +1,62 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+ body{
+    background-image: url("./images/fisherman-4305368_960_720.jpg");
+    /* background-image: linear-gradient(green 10%, white 90% ,yellow); */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    /* border: 2px solid gold; */
+    /* border-radius: 15px;
+    width: 500px;
+    height: 500px;
+   text-align: center;
+   margin-top: 50px;
+   margin-left: 400px; */
+
+}
+ 
+#h3{
+    color: rgb(226, 57, 15);
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+}
+
+#reg{
+     /* background-color:#333; */
+     /* opacity: .5; */
+    border: 2px solid rgb(46, 45, 40);
+    border-radius: 15px;
+    width: 500px;
+    height: 500px;
+   text-align: center;
+   margin-top: 50px;
+   margin-left: 400px;
+
+}
+
+#dow{
+    margin-top: 50px;
+}
+#up h3{
+    margin-top: 30px;
+    font-weight: bolder;
+}
+
+#kiran{
+    margin-top: 20px;
+}
+a{
+    text-decoration: none;
+    border: 1px solid transparent;
+    /* height: 150px; */
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    margin-top: 20px
+}
